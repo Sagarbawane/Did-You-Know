@@ -1,0 +1,108 @@
+.navbar-brand {
+  padding: 0 15px;
+  height: 60px;
+  line-height: 80px;
+}
+
+.navbar-toggle {
+  /* (80px - button height 34px) / 2 = 23px */
+  margin-top: 23px;
+  padding: 9px 10px !important;
+}
+
+.navbar-nav > li {
+  padding-left: 30px;
+  padding-right: 35px;
+}
+.title {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 60px;
+  font-family: "Romanesco", cursive;
+}
+
+.title2 {
+  margin-top: 20px;
+}
+.label {
+  font-size: 30px;
+}
+/* img {
+      display: block;
+      margin: 0 auto;
+    } */
+.embed-responsive .card-img-top {
+  object-fit: cover;
+}
+.container {
+  margin-top: 20px;
+}
+
+.container-2 {
+  margin-top: 20px;
+  background-color: tomato;
+}
+
+.container-fluid {
+  margin-top: 20px;
+
+  height: 20px;
+}
+
+.des {
+  text-align: center;
+  font-family: "Playball", cursive;
+  font-size: 40px;
+}
+.name {
+  font-family: "Vollkorn", serif;
+}
+.eye {
+  position: absolute;
+  top: 45px;
+  right: 40px;
+}
+.tagline {
+  text-align: center;
+  font-family: "Playball", cursive;
+  font-size: 45px;
+  color: white;
+  background-color: #e60000;
+}
+.card-img-top {
+  width: 400px;
+  height: auto;
+}
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+.heading {
+  text-align: center;
+  font-size: 35px;
+}
+.created {
+  text-align: left;
+}
+.description {
+  font-family: "Patua One", cursive;
+}
+.footer {
+  left: 0;
+  bottom: 0;
+
+  text-align: center;
+}
+.AddBtn {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+
+  width: 100%;
+
+  text-align: center;
+}
+.form-control {
+  white-space: pre-wrap;
+}
