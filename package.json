@@ -12,6 +12,10 @@
     "client": "cd client && npm start",
     "dev": "concurrently --kill-others-on-fail \"cd client && npm start\" \"node index.js\""
   },
+  "engines": {
+    "node":"12.16.1",
+    "npm":"6.14.8"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
